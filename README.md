@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Ambika Gokul
 
-<!--
-**contactambikaofficial-design/contactambikaofficial-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a Data Analyst passionate about data analytics, visualization, cloud computing , transforming raw data into actionable insights.
+My goal is to apply data-driven thinking to solve real-world business challenges and make informed decisions.
+Completed an 8-Week **Data Technician Bootcamp**
 
-Here are some ideas to get you started:
+##  About Me
+### Technical Skills
+- Data Analytics: Power BI, MS Excel, SQL, Tableau
+- Programming: Python, C# .Net
+- Cloud Computing:  AWS (EC2, S3), Azure
+- Version Control:  GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Soft Skills
+
+- **Agile Environments:** Worked in Agile environments to deliver high-quality modules on time.  
+- **Analytical Skills:** Developed bespoke analytical files based on project requirements, showcasing expertise in design and analysis techniques.  
+- **Teamwork:** Experienced in working with cross-functional teams of developers, testers, business analysts, and product owners to deliver high-quality solutions.  
+- **Interests:** Data storytelling and process automation.
+
+## 📬 Connect
